@@ -69,7 +69,7 @@ Sistem evaluasi pembelajaran yang **komprehensif, mudah digunakan, dan berbasis 
 
 ### ⚡ Cara Paling Cepat
 
-**[👉 Klik di sini untuk buka platform 👈](https://chikaa-ops.github.io/platform.evaluasi.pembelajaran/)**
+**[👉 Klik di sini untuk buka platform 👈](https://chikaa-ops.github.io/platform.evaluasi.pembelajaran.html)**
 
 ### Alternatif: Download & Buka Lokal
 
