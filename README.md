@@ -73,7 +73,7 @@ Sistem evaluasi pembelajaran yang **komprehensif, mudah digunakan, dan berbasis 
 
 ### Alternatif: Download & Buka Lokal
 
-1. Download file `platform-evaluasi-pembelajaran.html`
+1. Download file `platform.evaluasi.pembelajaran.html`
 2. Double-click file untuk membuka di browser
 3. **Selesai!** Platform siap digunakan
 
